@@ -44,7 +44,7 @@ header h3 {
 }
 
 body {
-    background-image: url('./img/restaurante.png');
+    background-image: url('../img/Restaurante.png');
 
     background-size: cover;
 
@@ -177,3 +177,4 @@ td, th{
     width: 400px;
 
 }
+
